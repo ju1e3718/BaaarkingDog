@@ -15,7 +15,7 @@ int main(void) {
 		cin >> c1;
 		if (c1 == 'P') {
 			cin >> c2;
-			L.insert(t, c2); //tÀÚ¸®¿¡ »õ·Î ¹®ÀÚ¸¦ »ðÀÔÇÏ´Â °ÍÀÌ¶ó¼­ t´Â ±×´ë·Î ´ÙÀ½ ¹®ÀÚ¸¦ °¡¸®Å°´Â °ÍÃ³·³ µÊ
+			L.insert(t, c2); //tìžë¦¬ì— ìƒˆë¡œ ë¬¸ìžë¥¼ ì‚½ìž…í•˜ëŠ” ê²ƒì´ë¼ì„œ tëŠ” ê·¸ëŒ€ë¡œ ë‹¤ìŒ ë¬¸ìžë¥¼ ê°€ë¦¬í‚¤ëŠ” ê²ƒì²˜ëŸ¼ ë¨
 			/*if (t != L.end())
 				t++;*/
 		}
